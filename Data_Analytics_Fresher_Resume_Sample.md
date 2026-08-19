@@ -1,8 +1,8 @@
-# ANANYA SHARMA
+# SAMAN IQBAL ANSARI
 
 **Data Analytics Intern / Analyst (Fresher)**
 
-Bengaluru, Karnataka | +91-98765-43210 | ananya.sharma.da@gmail.com
+Kolkata, West Bengal | +91-9674429476| samaniqbal2468@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/saman-iqbal-a-a60697304/) · [GitHub](https://github.com/sammyiqbal) · [Kaggle](https://www.kaggle.com/sam24656566) · [Tableau Public](https://public.tableau.com/app/profile/saman.iqbal5804/vizzes) · [LeetCode](https://leetcode.com/u/msdF22jNi4/)
 
@@ -20,9 +20,9 @@ B.Tech 3rd year student with hands-on experience turning raw, messy data into de
 |---|---|
 | **SQL** | MySQL, PostgreSQL, BigQuery — joins, window functions, CTEs, subqueries, indexing, query optimisation |
 | **Python** | pandas, NumPy, Matplotlib, Seaborn, scikit-learn (basics), Jupyter |
-| **BI & Visualisation** | Tableau (published author), Power BI, Looker Studio, Advanced Excel (Pivot Tables, XLOOKUP, Power Query, VBA basics) |
+| **BI & Visualisation** | Tableau (published author), Looker Studio, Advanced Excel (Pivot Tables, XLOOKUP, Power Query, VBA basics) |
 | **Statistics** | Descriptive stats, hypothesis testing (t-test, chi-square), A/B testing, correlation, regression basics |
-| **Other** | Git & GitHub, Google Sheets, Jira, basic ETL scripting, data cleaning & validation |
+| **Other** | Git & GitHub, Google Sheets, basic ETL scripting, data cleaning & validation |
 
 ---
 
