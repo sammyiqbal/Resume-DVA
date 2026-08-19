@@ -10,7 +10,10 @@ Kolkata, West Bengal | +91-9674429476| samaniqbal2468@gmail.com
 
 ## SUMMARY
 
-B.Tech 3rd year student with hands-on experience turning raw, messy data into decisions, end-to-end analytics projects covering SQL modelling, Python EDA and dashboarding. Published 3 Tableau Public dashboards. Seeking a Data Analytics intern/entry-level role to own reporting pipelines and self-serve dashboards.
+B.Tech 3rd year student, turns raw datasets into business decisions. Skilled in Python, Pandas,
+NumPy, SQL, Tableau, and Matplotlib/Seaborn, with end-to-end EDA experience across real world datasets.
+Combines strong analytical thinking with a product-first mindset to ask the right questions, not just run the
+right queries. Actively seeking a Data Analyst Internship where data drives the product.
 
 ---
 
