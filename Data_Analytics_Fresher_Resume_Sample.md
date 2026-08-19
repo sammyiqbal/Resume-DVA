@@ -4,13 +4,13 @@
 
 Bengaluru, Karnataka | +91-98765-43210 | ananya.sharma.da@gmail.com
 
-[LinkedIn](https://linkedin.com/in/ananyasharma-da) · [GitHub](https://github.com/ananyasharma-da) · [Kaggle](https://kaggle.com/ananyasharmada) · [Tableau Public](https://public.tableau.com/app/profile/ananya.sharma) · [LeetCode](https://leetcode.com/u/ananya_sql/)
+[LinkedIn](https://www.linkedin.com/in/saman-iqbal-a-a60697304/) · [GitHub](https://github.com/sammyiqbal) · [Kaggle](https://www.kaggle.com/sam24656566) · [Tableau Public](https://public.tableau.com/app/profile/saman.iqbal5804/vizzes) · [LeetCode](https://leetcode.com/u/msdF22jNi4/)
 
 ---
 
 ## SUMMARY
 
-B.Tech final-year student with hands-on experience turning raw, messy data into decisions — 3 end-to-end analytics projects covering SQL modelling, Python EDA and dashboarding. Solved 320+ LeetCode problems (180+ SQL, Top 8% in SQL 50) and published 6 Tableau Public dashboards. Seeking a Data Analytics intern/entry-level role to own reporting pipelines and self-serve dashboards.
+B.Tech 3rd year student with hands-on experience turning raw, messy data into decisions, end-to-end analytics projects covering SQL modelling, Python EDA and dashboarding. Published 3 Tableau Public dashboards. Seeking a Data Analytics intern/entry-level role to own reporting pipelines and self-serve dashboards.
 
 ---
 
@@ -26,16 +26,6 @@ B.Tech final-year student with hands-on experience turning raw, messy data into 
 
 ---
 
-## SQL & PROBLEM-SOLVING PROFICIENCY
-
-**LeetCode — [leetcode.com/u/ananya_sql](https://leetcode.com/u/ananya_sql/)**
-
-- **320+ problems solved** (145 Easy · 155 Medium · 20 Hard); **180+ SQL** problems
-- Completed **SQL 50** and **Top Interview 150** study plans; **Top 8%** on the SQL leaderboard
-- **420-day** max streak; comfortable with window functions, ranking, self-joins, pivoting and gap-and-island problems
-- Also active on HackerRank — **5★ SQL** badge
-
----
 
 ## PROJECTS
 
