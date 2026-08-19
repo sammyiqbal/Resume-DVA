@@ -58,31 +58,22 @@ B.Tech 3rd year student with hands-on experience turning raw, messy data into de
 
 ## INTERNSHIP / EXPERIENCE
 
-**Data Analyst Intern** — BrightPath Analytics (Remote) | *May 2026 – Jul 2026*
+**Business Development Intern** — Stoild Private Limited (Remote) | *Sept 2025 – Oct 2025*
 
-- Automated a weekly client reporting workflow in Python + Excel, cutting manual prep from **6 hours to 25 minutes** per cycle.
-- Wrote and optimised 30+ SQL queries against a 2M-row events table; reduced one core report's runtime by **62%** through indexing and query rewrites.
-- Built a Looker Studio marketing funnel dashboard used by a 5-person growth team for weekly reviews.
+- Synthesised qualitative and quantitative feedback into generalised performance reports,
+identifying recurring patterns across **40%** of responses, reducing manual review time and
+directly supporting **data-driven decisions** on **customer experience improvement areas.**
 
 ---
 
 ## EDUCATION
 
-**B.Tech, Computer Science & Engineering** — Visvesvaraya Technological University, Bengaluru
-*2022 – 2026* | **CGPA: 8.4/10**
+**B.Tech, CS & AI** — Rishihood University X Newton School of Technology, 
+*2024 – 2028*
 
-*Relevant coursework:* Database Management Systems, Statistics & Probability, Data Structures, Machine Learning, Data Warehousing
+*Relevant coursework:* Database Management Systems, Statistics & Probability, Data Structures, Machine Learning
 
-**Senior Secondary (CBSE, PCM + CS)** — Delhi Public School, Bengaluru | 2022 | **92.4%**
-
----
-
-## CERTIFICATIONS
-
-- **Google Data Analytics Professional Certificate** — Coursera, 2025
-- **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** — 2026
-- **Tableau Desktop Specialist** — Tableau, 2025
-- **SQL (Advanced) Certificate** — HackerRank, 2025
+**Senior Secondary (CBSE, PCM + CS)** — Army Public School, Kolkata | 2024 | **87.0%**
 
 ---
 
@@ -104,4 +95,4 @@ B.Tech 3rd year student with hands-on experience turning raw, messy data into de
 
 ## LANGUAGES
 
-English (Fluent) · Hindi (Native) · Kannada (Conversational)
+English (Fluent) · Hindi (Native) 
