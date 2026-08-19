@@ -79,17 +79,18 @@ directly supporting **data-driven decisions** on **customer experience improveme
 
 ## ACHIEVEMENTS
 
-- **2nd place**, Inter-college Data Storytelling Hackathon (DataFest 2025) — 48 competing teams
-- **Kaggle Notebooks Expert** — top 6% of a 380-participant playground competition
-- Top 8% globally on LeetCode SQL; 5★ SQL badge on HackerRank
-- Merit scholarship for academic performance, 2024 & 2025
+- Finalist — Meta OpenEnv Hackathon by Scaler School of Technology (April 2026) — Selected among
+31,000+ teams nationwide to compete in the national finals
+- **Kaggle** — Bronze medalist | Published own surveyed Farmer Dataset
+- Represented school at state level football, demonstrating sustained commitment, strategic thinking, and
+high-performance teamwork under pressure.
 
 ---
 
 ## POSITIONS OF RESPONSIBILITY
 
-- **Data Lead, Analytics Club (VTU)** | 2025 – 2026 — Ran 6 hands-on SQL & Tableau workshops for 120+ juniors; mentored 8 students through their first portfolio project.
-- **Volunteer, Annual Tech Fest** | 2024 — Managed registration data for 900+ participants and built the live event tracking sheet.
+- **DVA Mentor** | Summer Profile Building-2026. Mentored students through their portfolio project, helped them in making industry level projects.
+- **Volunteer, Annual Tech Fest** | 2025 — Managed registration data for 1000+ participants and built the live event tracking sheet.
 
 ---
 
